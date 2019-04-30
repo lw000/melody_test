@@ -1,0 +1,8 @@
+{
+    "count": 1,
+    "host": "192.168.1.73:6789",
+    "scheme": "wss",
+    "path": "ws",
+    "millisecond": 1000,
+    "send": true
+}
